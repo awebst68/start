@@ -1,6 +1,2 @@
-echo "# start" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/awebst68/start.git
-git push -u origin master
+# awebst68.github.io/start
+Start Page
